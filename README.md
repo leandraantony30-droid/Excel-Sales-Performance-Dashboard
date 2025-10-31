@@ -29,11 +29,18 @@ It provides a quick overview of business performance, revenue trends, and region
 ---
 
 ## 🗂️ **Files in this Repository**
-| File Name | Description |
-|------------|-------------|
-| `Sales_Dashboard.xlsx` | Final interactive dashboard |
-| `Sales_Raw_Data.xlsx` | Original dataset |
-| `README.md` | Project description and details |
+
+| File / Folder | Description |
+|----------------|-------------|
+| `18.Project Sales Dashboard.xlsx` | Final interactive Excel dashboard with pivot tables and charts |
+| `Visuals/` | Folder containing all dashboard visualizations and screenshots |
+| `Visuals/visual bar chart.png` | Bar chart showing sales by region |
+| `Visuals/visual line chart.png` | Line chart showing monthly performance trends |
+| `Visuals/visual doughnut chart.png` | Doughnut chart representing product-wise sales share |
+| `Visuals/visual map chart.png` | Map visualization of regional sales performance |
+| `Visuals/visual calculations.png` | Screenshot showing backend calculations and KPIs |
+| `README.md` | Project overview, visuals, and usage guide |
+| `LICENSE` | Project license (MIT License) |
 
 ---
 
